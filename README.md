@@ -1,7 +1,3 @@
-# Task requirements are in `TASK.md` file
-
-Good luck!
-
 ## Project setup
 
 ## Prerequisites
